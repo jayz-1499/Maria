@@ -1,0 +1,30 @@
+/*copyright by fu hub*/
+/*link group https://www.facebook.com/groups/498752080529382/*/
+.footer{
+    position: relative;
+    font-size: 13px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.footer a{
+    font-size: 13px;
+    color: black;
+}
+.view{
+ position: absolute;
+ right: 30px;
+ top: 30px;
+}
+
+.view-number{
+    font-weight: 900;
+    font-size: 14px;
+    /*border: 1px solid black;*/
+    padding: 2px 4px;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 4px;
+    margin-right: 4px;
+    
+}
